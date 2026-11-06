@@ -1,0 +1,5 @@
+out/
+*.log
+*.tmp
+/icon.exe
+tools/
